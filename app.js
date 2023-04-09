@@ -11,7 +11,7 @@ const app = express();
 
 // seedDb();
 
-app.use('/product', productRoutes);
+// app.use('/product', productRoutes);
 
 
 app.listen(4000, () => {
